@@ -1,0 +1,23 @@
+{
+  "name": "chriswklinkshortener",
+  "version": "1.0.0",
+  "description": "Link shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chriswk/linkshortener.git"
+  },
+  "keywords": [
+    "link",
+    "shortener"
+  ],
+  "author": "Christopher Kolstad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chriswk/linkshortener/issues"
+  },
+  "homepage": "https://github.com/chriswk/linkshortener#readme"
+}
